@@ -1,0 +1,16 @@
+# Versions of the environment that produced the paper (Python 3.11, CUDA 12.4).
+torch==2.6.0
+torchaudio==2.6.0
+nemo-toolkit[asr]==2.6.0
+numpy==1.26.4
+scipy==1.17.1
+pandas==3.0.5
+pyarrow==25.0.1
+soundfile==0.14.0
+librosa==0.11.0
+sentencepiece==0.2.2
+matplotlib==3.11.1
+tqdm==4.70.0
+wandb==0.28.2
+# openWakeWord baseline only (v5/oww_baseline.py)
+openwakeword==0.6.0

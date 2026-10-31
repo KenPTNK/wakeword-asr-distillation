@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.nemo
+*.npz
+*.npy
+*.wav
+*.parquet
+*.log
+checkpoints/
+logs/
+wandb/
+paper/v5/
+*.bak
